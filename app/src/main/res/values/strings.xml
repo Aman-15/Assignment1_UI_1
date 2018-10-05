@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Assignment1_UI_1</string>
+
+    <string name="title">My Form</string>
+    <string name="text_action">Drink Coffee</string>
+    <string name="choose_coffee">Choose Coffee</string>
+    <string name="title_choose_coffee">Choose Your Coffee!</string>
+    
+    <string name="espresso">Espresso</string>
+    <string name="latte">Café Latte</string>
+    <string name="cappuccino">Cappuccino</string>
+
+    <string name="letsGo">Let\'s Go!</string>
+
+    <string name="coffeeType">Coffee Type :\ </string>
+    <string name="quantity">Quantity : </string>
+
+    <string name="done">Done!</string>
+</resources>
